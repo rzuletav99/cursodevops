@@ -4,7 +4,7 @@ machine:
 
 dependecies:
   override:
-    - docker build -t platrzi
+    - docker build -t platzi .
 
 test:
   override:
